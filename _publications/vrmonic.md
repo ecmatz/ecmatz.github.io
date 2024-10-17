@@ -1,5 +1,5 @@
 ---
-title: "VRmonic"
+title: "VRmonic: A VR Piano Playing Form Trainer"
 collection: publications
 category: conferences
 permalink: /publication/vrmonic
