@@ -14,14 +14,14 @@ name                     : &name Ethan Matzek
 description              : &description "Computer Science PhD student at Wright State University and TARS Researcher"
 url                      : https://ecmatz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "/Ethan-Matzek"
+repository               : "/ecmatz/ecmatz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "profile_pic.jpg"
   name             : "Ethan Matzek"
   pronouns         : "he/him"  
   bio              : "Computer Science PhD Student Researcher with TARS Lab"
