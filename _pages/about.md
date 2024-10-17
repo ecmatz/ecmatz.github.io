@@ -23,7 +23,7 @@ Education
 🎓 BS in Computer Science<br />
     Clarkson University, 2023
 
-Exeperience
+Experience
 ============
 *Graduate Research Assistant* <br />
 Clarkson University <br />
