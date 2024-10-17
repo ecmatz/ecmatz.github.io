@@ -11,7 +11,7 @@ I am a PhD Computer Science student at Wright State University performing resear
 
 Computer Science Interests
 ============================
-- Virtual Relaity Application Development
+- Virtual Reality Application Development
 - Physiological Sensing
 - Deep Learning Models
 - Tutorial Creation
@@ -28,7 +28,7 @@ Experience
 *Graduate Research Assistant* <br />
 Clarkson University <br />
 January 2024 - July 2024 <br />
-* Created *VRmonic*, a Piano Trainer designed to reduce repetitive strain injuries by giving feedback on user playing form in comparison an experts. Published and demoed this work at IEEE AIxVR 2024.
+* Created *VRmonic*, a Piano Trainer designed to reduce repetitive strain injuries by giving feedback on user playing form in comparison to an experts. Published and demoed this work at IEEE AIxVR 2024.
 * Began work on *VRSensorIntegration*, an end-to-end set of online tutorials designed to teach users how to integrate physiological sensors with virtual reality and conduct data collection.
 
 *Graduate Research Assistant* <br />
