@@ -20,11 +20,20 @@ Education
 ==========
 🎓 PhD in Computer Science<br />
     Wright State University, 2028<br />
+🎓 MS in Computer Science<br />
+    Wright State University, 2025<br />    
 🎓 BS in Computer Science<br />
     Clarkson University, 2023
 
 Experience
 ============
+*R&D Co-op* <br />
+Delsys, Inc. <br/>
+May 2025 - August 2025 <br/>
+* During my time at Delsys I will contribute to the development of software and
+algorithm design for applications in the realm of contact and non-contact physiology,
+computer vision, and body movement tracking.
+
 *Graduate Research Assistant* <br />
 Clarkson University <br />
 January 2024 - July 2024 <br />
@@ -35,6 +44,7 @@ January 2024 - July 2024 <br />
 Wright State University <br />
 August 2024 - Present <br />
 * Finished work on *VRSensorIntegration*, which was workshopped in the UK and India to a wide demographic of attendees, including computer scientists, professors, healthcare workers, students, and entrepeneurs.
+* Created *VitaMaze, a VR exergame utilizing sEMG and Heart Rate sensors to control avatar motion in-game. Published this work at IEEE AIxVR 2025.
 * Created a VR maze exergame that used surface electromyography sensors and heart rate sensors to incentivize play and provide in-game feedback from physiological signals. Demoed this work at IEEE CVPR 2024.
 * Student Volunteered at IEEE RO-MAN 2024 and demoed robotic physiological sensor integration.
 * Mentored undergraduate students joining the lab, including nontraditional undergraduate students.
