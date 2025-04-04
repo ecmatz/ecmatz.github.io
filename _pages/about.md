@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ethan. am an MS and potentially PhD Computer Science student at Wright State University performing research with the Terascale All-Sensing Research Studio (TARS) laboratory under the advisement of Doctors Sean and Natasha Banerjee. My research focuses on virtual reality and phyisiological sensing, their intersection and how they can improve application design and fluidity when integrated together. I generally do most of my work in C#, but have experience in multiple other languages. 
+Hi, I'm Ethan. I am an MS and potentially PhD Computer Science student at Wright State University performing research with the Terascale All-Sensing Research Studio (TARS) laboratory under the advisement of Doctors Sean and Natasha Banerjee. My research focuses on virtual reality and phyisiological sensing, their intersection and how they can improve application design and fluidity when integrated together. I generally do most of my work in C#, but have experience in multiple other languages. 
 
 Computer Science Skills
 ========================
