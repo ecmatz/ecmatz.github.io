@@ -7,20 +7,57 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Computer Science student at Wright State University performing research with the Terascale All-Sensing Research Studio (TARS) laboratory under the advisement of Doctors Sean and Natasha Banerjee. My research focuses on virtual reality and phyisiological sensing, their intersection and how they can improve application design and fluidity when integrated together. Outside of research, I am a pianist and enjoy reading, working out, and watching movies. 
+IHi, I'm Ethan. am an MS and potentially PhD Computer Science student at Wright State University performing research with the Terascale All-Sensing Research Studio (TARS) laboratory under the advisement of Doctors Sean and Natasha Banerjee. My research focuses on virtual reality and phyisiological sensing, their intersection and how they can improve application design and fluidity when integrated together. I generally do most of my work in C#, but have experience in multiple other languages. 
+
+Computer Science Skills
+========================
+- C#
+- Unity Game Engine
+- GitHub and Git
+- Visual Studio and VS Code
+- C++
+- C
+- Python
+- Keras
+- React
+- Sphinx
+- IntelliJ IDEA
+- Java
+- Javascript
+- Haskell
+- HTML
+- CSS
+- Latex
+- ReStructuredText
+- Assembly
+- MATLAB
+- Academic Paper Writing
 
 Computer Science Interests
 ============================
-- Virtual Reality Application Development
-- Physiological Sensing
-- Deep Learning Models
-- Tutorial Creation
+- Application Development
+- Team-based Projects
+- Programming Languages
+- Deep Learning
+- Web Development
+- Game Design
+
+General Interests
+==================
+- Playing Piano
+- Walking and Running
+- Reading (Especially Fantasy)
+- Watching Movies and TV
+- Working Out
+- Swimming
+- Skiing
+- Hiking
 
 Education
 ==========
-🎓 PhD in Computer Science<br />
+🎓 Potential PhD in Computer Science<br />
     Wright State University, 2028<br />
-🎓 MS in Computer Science<br />
+🎓 In-Progress MS in Computer Science<br />
     Wright State University, 2025<br />    
 🎓 BS in Computer Science<br />
     Clarkson University, 2023
@@ -56,6 +93,15 @@ May 2023 - August 2023 <br />
 * Prepared teachers and students for new school year by teaching them how to use new technologies.
 * Set up classrooms for summer school and collected returned technology.
 * Troubleshot technology issues for a large school district with multiple buildings and over 1000 students.
+
+*Computer Builder* <br />
+Self Employed <br />
+November 2019 - June 2021 <br />
+* Built office desktops and gaming systems for friends and people in the town of Livonia, NY.
+* Developed skills in tracking market prices, comparing specifications, and understanding computer parts.
+* Learned how to negotiate with customers, balance expectations and requests, and find compromises.
+
+
 
 
 

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ethan Matzek"
 title_separator          : "-"
 name                     : &name Ethan Matzek
-description              : &description "Computer Science PhD student at Wright State University and TARS Researcher"
+description              : &description "Computer Science MS student at Wright State University and TARS Researcher"
 url                      : https://ecmatz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "/ecmatz/ecmatz.github.io"
@@ -81,6 +81,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  webpages:
+    title: 'Webpages'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
