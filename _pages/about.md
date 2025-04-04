@@ -57,9 +57,11 @@ Education
 ==========
 🎓 Potential PhD in Computer Science<br />
     Wright State University, 2028<br />
+
 🎓 In-Progress MS in Computer Science<br />
-    Wright State University, 2025<br />    
-🎓 BS in Computer Science<br />
+    Wright State University, 2025<br />
+
+🎓 Completed BS in Computer Science<br />
     Clarkson University, 2023
 
 Experience
