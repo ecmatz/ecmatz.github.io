@@ -7,47 +7,57 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ethan. I am an MS Computer Science student at Wright State University performing research with the Terascale All-Sensing Research Studio (TARS) laboratory under the advisement of Doctors Sean and Natasha Banerjee. My research focuses on virtual reality and phyisiological sensing, their intersection and how they can improve application design and fluidity when integrated together. I generally do most of my work in C#, but have experience in multiple other languages. 
+Hi, I'm Ethan. I am an MS Computer Science student at Wright State University performing research with the Terascale All-Sensing Research Studio (TARS) laboratory under the advisement of Doctors Sean and Natasha Banerjee. My research focuses on a mix between software and hardware integration, including but not limited to physiological sensing, virtual reality, application development, and robotics.
 
+Information Technology Skills
+============================
+- Microsoft Office Suite
+- Google Suite
+- Troubleshooting
+- Bash Scripting
+- PowerShell Scripting
+- Remote Desktop
+- Servers and SSH
+- PC Hardware Knowledge
+- Ticketing Systems
+- Chrome OS
+- CUI Exposure
+- Teaching Technology
+- Operating Systems
+- Filesharing
+- Patch Cabling
+- Network Troubleshooting
 Computer Science Skills
 ========================
-- C#
-- Unity Game Engine
 - Git
 - GitHub
 - Visual Studio and VS Code
+- C#
 - C++
-- C
 - Python
-- Keras
-- React
-- Sphinx
-- IntelliJ IDEA
 - Java
-- Javascript
-- Haskell
+- JavaScript
 - HTML
 - CSS
-- Latex
+- LaTeX
 - ReStructuredText
 - Assembly
-- MATLAB
 - Academic Paper Writing
+- Unity Game Engine
 
-Computer Science Interests
+Tech Interests
 ============================
-- Application Development
-- Team-based Projects
-- Programming Languages
-- Deep Learning
+- System Administration
+- Help Desk
+- IT Engineering
 - Web Development
-- Game Design
+- Research and Development
 
 General Interests
 ==================
 - Playing Piano
 - Walking and Running
-- Reading (Especially Fantasy)
+- Reading (Especially Fantasy!)
 - Watching Movies and TV
 - Working Out
 - Swimming
@@ -68,9 +78,7 @@ Experience
 *R&D Co-op* <br />
 Delsys, Inc. <br/>
 May 2025 - August 2025 <br/>
-* During my time at Delsys I will contribute to the development of software and
-algorithm design for applications in the realm of contact and non-contact physiology,
-computer vision, and body movement tracking.
+* During my time at Delsys I have contributed to the development of software and algorithm design for applications in the realm of contact and non-contact physiology, computer vision, and body movement tracking. I also support our end users with troubleshooting, troubleshooting software and hardware issues, synchronizing devices and, and performing Bash and Python scripting on Linux and Windows.
 
 *Graduate Research Assistant* <br />
 Clarkson University <br />
@@ -87,6 +95,7 @@ August 2024 - Present <br />
 * Student Volunteered at IEEE RO-MAN 2024 and demoed robotic physiological sensor integration.
 * Mentored undergraduate students joining the lab, including nontraditional undergraduate students.
 * Attended CITI training for large-scale human studies and wrote IRB protocol for an upcoming robotics study.
+* Created *VRRobot*, a computer vision application using an Orbbec camera to track user gestures using Mediapipe and control a robotic arm in VR.
 
 *Technology Intern* <br />
 Hilton Central School District <br />
@@ -94,6 +103,9 @@ May 2023 - August 2023 <br />
 * Prepared teachers and students for new school year by teaching them how to use new technologies.
 * Set up classrooms for summer school and collected returned technology.
 * Troubleshot technology issues for a large school district with multiple buildings and over 1000 students.
+* Set up active directory services on student chromebooks and configured them for use in the district.
+* Wired patch cables to connect classrooms to the server network.
+* Helped diagnose hardware issues on a variety of PC models.
 
 *Computer Builder* <br />
 Self Employed <br />
@@ -101,6 +113,7 @@ November 2019 - June 2021 <br />
 * Built office desktops and gaming systems for friends and people in the town of Livonia, NY.
 * Developed skills in tracking market prices, comparing specifications, and understanding computer parts.
 * Learned how to negotiate with customers, balance expectations and requests, and find compromises.
+* Sourced parts for different levels of PC builds, from workstations to racing rigs.
 
 
 
