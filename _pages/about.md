@@ -27,6 +27,7 @@ Information Technology Skills
 - Filesharing
 - Patch Cabling
 - Network Troubleshooting
+
 Computer Science Skills
 ========================
 - Git
@@ -90,7 +91,7 @@ January 2024 - July 2024 <br />
 Wright State University <br />
 August 2024 - Present <br />
 * Finished work on *VRSensorIntegration*, which was workshopped in the UK and India to a wide demographic of attendees, including computer scientists, professors, healthcare workers, students, and entrepeneurs.
-* Created *VitaMaze, a VR exergame utilizing sEMG and Heart Rate sensors to control avatar motion in-game. Published this work at IEEE AIxVR 2025.
+* Created *VitaMaze*, a VR exergame utilizing sEMG and Heart Rate sensors to control avatar motion in-game. Published this work at IEEE AIxVR 2025.
 * Created a VR maze exergame that used surface electromyography sensors and heart rate sensors to incentivize play and provide in-game feedback from physiological signals. Demoed this work at IEEE CVPR 2024.
 * Student Volunteered at IEEE RO-MAN 2024 and demoed robotic physiological sensor integration.
 * Mentored undergraduate students joining the lab, including nontraditional undergraduate students.
